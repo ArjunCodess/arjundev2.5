@@ -1,6 +1,7 @@
 ## Portfolio README
 
 Welcome to my portfolio! Here, you'll find a showcase of my skills, experiences, and passion for Web Development. Aspiring to combine creativity with innovation, I've curated a collection of projects that highlight my journey and expertise.
+![image](https://github.com/ArjunCodess/arjundev2.5/assets/137415649/e96aa1df-3eb2-48ef-a7c1-344a8d5b20bb)
 
 ### Home
 Get a glimpse of my journey right from the homepage. Navigate through the various sections to explore my accomplishments, skills, and the work I've done. Whether you're an employer looking for a dedicated professional or a fellow enthusiast, this portfolio offers a comprehensive view of what I bring to the table.
